@@ -32,7 +32,7 @@ const About = () => {
           <div className="aboutSectionContainer2">
             <Typography component="h2">Our Brands</Typography>
             <a
-              href="https://www.youtube.com/channel/UCO7afj9AUo0zV69pqEYhcjw"
+              href="https://www.youtube.com/channel/UCwGponqae9t9RUdPLqIL5qA"
               target="blank"
             >
               <YouTubeIcon className="youtubeSvgIcon" />
